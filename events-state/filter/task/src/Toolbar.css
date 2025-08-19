@@ -1,0 +1,15 @@
+.toolbar-button-active {
+    margin-right: 5px;
+	padding: 5px 8px;
+    background-color: gray;
+	color: #fff;
+}
+
+.toolbar-button {
+	margin-right: 5px;
+	padding: 5px 8px;
+	background-color: #ffffff;
+	outline: none;
+	border: 1px solid gray;
+    margin-bottom: 20px;
+}
